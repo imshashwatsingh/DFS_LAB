@@ -33,7 +33,7 @@ int main(){
         {0,0,0,0,0,0,0,0,0,0},
         {0,0,0,0,0,0,0,0,0,0},
     };
-    bool result = isSparseMatrix(arr,10,10);
+    bool result = isSparseMatrix(10,10,arr);
     printf("\n isSparseResult =  %d",result);
     
 }
