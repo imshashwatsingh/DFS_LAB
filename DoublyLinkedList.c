@@ -319,15 +319,15 @@ void printList()
 // Main function for testing
 int main()
 {
-    insertAtBegin(10);
-    insertAtBegin(20);
-    insertAtEnd(5);
-    insertAtEnd(1);
+    // insertAtBegin(10);
+    // insertAtBegin(20);
+    // insertAtEnd(5);
+    // insertAtEnd(1);
 
-    printList(); // Output: Doubly Linked List : X<- 20 <=> 10 <=> 5 <=> 1 <=> X
+    // printList(); // Output: Doubly Linked List : X<- 20 <=> 10 <=> 5 <=> 1 <=> X
 
-    // freeList();  // Clear the list
-    printList(); // Output: Empty List : Doubly :
+    // // freeList();  // Clear the list
+    // printList(); // Output: Empty List : Doubly :
 
     int choice, value, target;
 
