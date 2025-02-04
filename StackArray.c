@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
+// Stack Implementation using Arrays !
+
 // Global Variables
 #define n 10 // Define stack size
 

@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
+// Stack Implementation using Linked List
+
 struct Node
 {
     int data;
