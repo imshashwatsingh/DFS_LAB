@@ -66,13 +66,13 @@ int pop()
 
 int peek()
 {
-
-    if (isEmpty())
-    {
-        printf("\nStack is empty!\n");
-        return -1;
-    }
-    return head->data;
+    
+        if (isEmpty())
+        {
+            printf("\nStack is empty !\n");
+            return -1;
+        }
+        return head->data;
 }
 
 void display()
